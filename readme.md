@@ -1,5 +1,10 @@
-This is a simple python helper program to read out all docx
-documents in a directory including sub directories and counting 
-the total number of pages written.
+# purpose
+This is a simple python program to
+* parse a directory and its subdirectory for docx files
+* and aggregate for each docx statistics
 
-I am using it to predict my own writings.
+I used it to estimate how much pages I wrote when I was doing
+bookwriting.
+
+I might still refine it as I keep writing (more technical than
+fictional) for now. 
